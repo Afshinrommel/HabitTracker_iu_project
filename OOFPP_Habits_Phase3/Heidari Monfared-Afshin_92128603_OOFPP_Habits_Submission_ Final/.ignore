@@ -1,0 +1,14 @@
+__pycache__/
+.python
+*.py[cod]
+*/.pytest_cache
+build/
+dist/
+.exe
+test/
+build/Main
+build/
+dist/
+.pytest_cache/
+*.pyc
+__pycache__/*.pyc
